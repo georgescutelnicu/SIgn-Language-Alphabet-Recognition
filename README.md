@@ -10,7 +10,7 @@ This GitHub repository contains an American Sign Language (ASL) alphabet detecto
 * [Scikit-Learn](https://scikit-learn.org/stable/getting_started.html)
 
 #### Datasets i used:
-[Synthetic ASL Alphabet - Kaggle](https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet)
+[Synthetic ASL Alphabet - Kaggle](https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet) <br />
 [American Sign Language Letters Dataset - RoboFlow](https://public.roboflow.com/object-detection/american-sign-language-letters)
 
 #### The model had a ~98% accuracy on the test set, although when i used the model on videos instead of iamges a few problems came out:
