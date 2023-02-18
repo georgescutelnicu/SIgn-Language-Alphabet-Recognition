@@ -9,7 +9,7 @@ This GitHub repository contains an American Sign Language (ASL) alphabet detecto
 * [Matplotlib](http://matplotlib.org/)
 * [Scikit-Learn](https://scikit-learn.org/stable/getting_started.html)
 * [MediaPipe](https://mediapipe.dev/)
-* 
+
 #### Datasets i used:
 [Synthetic ASL Alphabet - Kaggle](https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet) <br />
 [American Sign Language Letters Dataset - RoboFlow](https://public.roboflow.com/object-detection/american-sign-language-letters)
