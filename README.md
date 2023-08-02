@@ -6,7 +6,6 @@ This GitHub repository contains an American Sign Language (ASL) alphabet detecto
 #### Requirements:
 * [NumPy](http://www.numpy.org/)
 * [OpenCV](https://docs.opencv.org/4.x/)
-* [Matplotlib](http://matplotlib.org/)
 * [Scikit-Learn](https://scikit-learn.org/stable/getting_started.html)
 * [MediaPipe](https://mediapipe.dev/)
 
