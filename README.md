@@ -13,10 +13,12 @@ This GitHub repository contains an American Sign Language (ASL) alphabet detecto
 [Synthetic ASL Alphabet - Kaggle](https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet) <br />
 [American Sign Language Letters Dataset - RoboFlow](https://public.roboflow.com/object-detection/american-sign-language-letters)
 
-#### The model had a ~98% accuracy on the test set (who came from the same distribution as the train set), although when i used the model on new images a few problems came out:
-#### - the letter 'S' was usually mistaken with the letter 'N'
-#### - the letter 'J' requires hand movement and since the model was trained only on static images it is often mistaken with 'I'
-
-
 #### Example:
 ![](example_image.png)
+
+<hr>
+
+The model had a ~98% accuracy on the test set (who came from the same distribution as the train set), although when i used the model on new images a few problems came out:
+
+- the letter 'S' was usually mistaken with the letter 'N'
+- the letter 'J' requires hand movement and since the model was trained only on static images it is often mistaken with 'I'
